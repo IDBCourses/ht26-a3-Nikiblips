@@ -2,9 +2,9 @@
 
 **Play it here:** <!-- Paste your GitHub Pages link here, e.g. https://idbcourses.github.io/your-repo-name/ -->
 
-**Name:** <!-- Your name and MAU ID -->
+**Name:** <!-- Nikodem Mirus, as6462student@mau.se -->
 
-<!-- One or two sentences: what kind of instrument is it, and what is it like to play? -->
+<!--It is a some kind of dj pad eske thing where you can press and drag your fingers to play different sounds as well as press on effect buttons to enable two effects. -->
 
 ## How to play
 
@@ -12,11 +12,14 @@
 
 | When you...  | The sound...                         | The shapes... |
 | ------------ | ------------------------------------ | ------------- |
-| Click or tap | Plays a C4 (the example: replace it) | Nothing yet   |
-|              |                                      |               |
-
+|move pointer (left to right)| Plays a note that gets higher in pitch|top right rectangle|
+|move pointer (right to left)| Plays a note that gets higher in pitch|bottom right recangle|
+|move pointer fast|plays a note that gets higher in pitch with the speed of the pointer|top left recangle|
+|move pointer fast|plays a note that gets lower in pitch with the speed of the pointer|bottom left recangle|
+|press/click|adds on distortion to notes|top middle square|
+|press/click|adds on vibrato to notes|bottom middle square|
 <!-- Anything else a player needs to know: how to get started, a good thing to try first. -->
-
+It'd be good for a player to listen to sounds without effects first to be able to hear the difference more clearly
 ---
 
 ## About this assignment
